@@ -21,16 +21,16 @@
 usar codigo 
 
 ```java
-public class Carro{
-public Carro(){
+public class Jedi{
+public Jedi(){
 } 
 }
 
-public class ChamarCarro {
+public class ChamarJedi {
  
  
 public static void main(String[] args) { 
-Carro novo = new Carro(); 
+Jedi Yoda = new Jedi(); 
 }
 }
 ```
