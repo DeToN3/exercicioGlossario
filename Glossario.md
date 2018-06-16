@@ -25,6 +25,14 @@ public class Carro{
 public Carro(){
 } 
 }
+
+public class ChamarCarro {
+ 
+ 
+public static void main(String[] args) { 
+Carro novo = new Carro(); 
+}
+}
 ```
 
 ### Instanciação
