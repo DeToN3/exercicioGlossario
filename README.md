@@ -22,6 +22,7 @@ usar codigo
 
 ### Instanciação
 
+```java
 public class Carro{
 
  
@@ -29,10 +30,5 @@ public Carro(){
 
 } 
 
-}
-
-```csharp
-private void index(){
-  MessageBox.Show("hello world");
 }
 ```
