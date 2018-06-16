@@ -1,6 +1,19 @@
 # Glossário
-### [Construtor](#(https://github.com/DeToN3/exercicioGlossario/blob/master/README.md#gloss%C3%A1rio))
-
-
+- ##### Construtor
+- ##### Instanciação
+- ##### Palavra reservada new
+- ##### Palavra reservada instanciof
+- ##### Encapsulamento
+- ##### Palavra reservada this
+- ##### Getters/Setters
+- ##### Palavra reservada public/private
+- ##### Assinatura de método
+- ##### Sobrecarga de método
+- ##### Escopo de classe
+- ##### Escopo de objeto
+- ##### Palavra reservada final
+- ##### Relacionamento de dependência
+- ##### Relacinamento de Agregação
+- ##### Relacionamento de Composição
 ### Construtor
 - É uma operação em uma classe responsável por criar um objeto.
