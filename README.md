@@ -24,11 +24,7 @@ usar codigo
 
 ```java
 public class Carro{
-
- 
 public Carro(){
-
 } 
-
 }
 ```
