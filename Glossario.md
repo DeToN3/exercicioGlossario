@@ -186,10 +186,10 @@ public class GetSetmain {
 
 ``` java
 //                             Parâmetros   ←  
-                               ↑            ↑
+//                             ↑            ↑
 public static double metodo(int num1, double num2){
-//              ↓
-//         Nome do método
+//              ↓            ↓           ↓
+//         Nome do método    ---------→Tipos
    double resultado = num1+num2;
    return resultado;
 }
