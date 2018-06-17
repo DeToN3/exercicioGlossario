@@ -149,3 +149,28 @@ public class TESTE2 {
     
 }
 ```
+
+## Getters/Setters
+
+``` java
+public class GetSet {
+  public String nome = "Marcelo";
+  public String getNome(){
+  return nome;
+  }
+  public void setNome(String nome){
+  this.nome = nome;
+  }
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+public class GetSetmain {
+    public static void main(String[] args){
+        GetSet request = new GetSet();
+        request.setNome("Arthur");
+        System.out.println(request.getNome());
+        
+}
+}
+```
