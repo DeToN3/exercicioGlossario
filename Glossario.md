@@ -193,3 +193,21 @@ public static double metodo(int num1, double num2){
    double resultado = num1+num2;
    return resultado;
 }
+```
+
+## Sobrecarga de método
+- consiste em criar o mesmo método com possibilidades de entradas diferentes. Essas entradas (parâmetros) devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
+
+``` java
+public class Calculadora{
+   public int soma (int num1, int num2){
+      return num1+num2;
+   }
+   public int soma (int num1, int num2, int num3){
+      return num1+num2+num3;
+   }
+   public double soma (double num1, double num2){
+      return num1+num2;
+   }
+}
+```
