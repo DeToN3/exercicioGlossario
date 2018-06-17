@@ -18,7 +18,6 @@
 
 ### Construtor
 - É uma operação em uma classe responsável por criar um objeto.
-usar codigo 
 
 ```java
 public class Jedi{
@@ -55,5 +54,5 @@ Luke.planeta = "Tatooine";
 }
 ```
 ### Palavra reservada new
-- Usada para instanciar um objeto
+- Usada para instanciar um objeto.
 #### Confira Exemplos em Construtor e Instanciação.
