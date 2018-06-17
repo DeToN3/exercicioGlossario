@@ -107,8 +107,6 @@ System.out.println("A força não está com você");
 
 ``` java
 public class Jedi {
-//public String nome;
-//public String planeta;
 String nome;
 
 Jedi(String nome){
@@ -125,3 +123,26 @@ public static void main(String[] args) {
     }
 }
 ```
+Outro Exemplo: 
+``` java
+public class TESTE {
+      String nome = "Marcelo";
+    TESTE() {
+        String nome = "Marcelo";
+        if(this.nome == nome) {
+            System.out.println("mesmo objeto");
+        }
+        else {
+            System.out.println("Objetos diferentes");
+    }
+    }
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+public class TESTE2 {
+    public static void main(String[] args){
+        TESTE eu = new TESTE();
+    }
+    
+}
