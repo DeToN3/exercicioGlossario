@@ -97,5 +97,5 @@ System.out.println("A força não está com você");
  <p> |  +andar               | </p>
  <p> +-----------------------+ </p>
  
- Confira nos exemplos acima os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
+ Confira nos exemplos acima que os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
  
