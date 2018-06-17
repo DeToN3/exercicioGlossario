@@ -49,7 +49,7 @@ public String planeta;
 public class Luke {
 public static void Main(){
 Jedi Luke = new Jedi();
-Luke.nome= "Luke Skywalker";
+Luke.nome = "Luke Skywalker";
 Luke.planeta = "Tatooine";
 }     
 }
