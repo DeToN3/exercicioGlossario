@@ -26,6 +26,8 @@ public Jedi(){
 } 
 }
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 public class ChamarJedi {
  
  
@@ -44,7 +46,8 @@ public class Jedi {
 public String nome;
 public String planeta;
 }
-
+ 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 public class Luke {
 public static void Main(){
