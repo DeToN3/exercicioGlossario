@@ -151,10 +151,11 @@ public class TESTE2 {
 ```
 
 ## Getters/Setters
+- Os getters e setters usados quando se quer encapsular uma classe, ou seja, os atributos privados dessa classe só poderão ser acessados por outras classes através desses métodos. Isso serve para controlar o acesso aos atributos da classe e é uma boa prática.
 
 ``` java
 public class GetSet {
-  public String nome = "Marcelo";
+  private String nome = "Marcelo";
   public String getNome(){
   return nome;
   }
@@ -170,6 +171,7 @@ public class GetSetmain {
         GetSet request = new GetSet();
         request.setNome("Arthur");
         System.out.println(request.getNome());
+        //Neste caso será impresso Arthur, pois o set está dando um novo parâmetro
         
 }
 }
