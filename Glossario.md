@@ -60,3 +60,16 @@ Luke.planeta = "Tatooine";
 #### Confira Exemplos em Construtor e Instanciação.
 
 ## Palavra reservada instanciof
+- Determina se um objeto é a instancia de uma classe, superclasse ou interface.
+
+``` java
+Jedi Luke = new Jedi();
+if (Luke instanceof Jedi){
+System.out.println("A força está com você");
+}else{
+System.out.println("A força não está com você");
+}
+//Luke.nome= "Luke Skywalker";
+//Luke.planeta = "Tatooine";
+} 
+```
