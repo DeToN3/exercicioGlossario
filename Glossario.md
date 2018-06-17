@@ -54,4 +54,6 @@ Luke.planeta = "Tatooine";
 }     
 }
 ```
-
+### Palavra reservada new
+- Usada para instanciar um objeto
+#### Confira Exemplos em Construtor e Instanciação.
