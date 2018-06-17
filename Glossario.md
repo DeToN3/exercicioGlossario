@@ -16,7 +16,7 @@
 - ##### Relacinamento de Agregação
 - ##### Relacionamento de Composição
 
-### Construtor
+## Construtor
 - É uma operação em uma classe responsável por criar um objeto.
 
 ```java
@@ -35,7 +35,7 @@ Jedi Yoda = new Jedi();
 }
 ```
 
-### Instanciação
+## Instanciação
 - É um processo no qual se realiza a cópia de um objeto (classe) existente. Uma classe, a qual tem a função de determinar um tipo de dado, deve ser instanciada para que possamos utilizá-la. Assim criamos sua instância, onde definimos como sendo um objeto referente ao tipo de dado que foi definido pela classe. 
 
 ``` java
@@ -55,8 +55,8 @@ Luke.planeta = "Tatooine";
 }     
 }
 ```
-### Palavra reservada new
+## Palavra reservada new
 - Usada para chama o construtor do objeto e criar um objeto instanciado a uma classe.
 #### Confira Exemplos em Construtor e Instanciação.
 
-### Palavra reservada instanciof
+## Palavra reservada instanciof
