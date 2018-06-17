@@ -21,6 +21,7 @@
 
 ```java
 public class Jedi{
+/* Aqui está se criando o construtor */
 public Jedi(){
 } 
 }
