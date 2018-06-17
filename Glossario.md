@@ -58,3 +58,5 @@ Luke.planeta = "Tatooine";
 ### Palavra reservada new
 - Usada para chama o construtor do objeto e criar um objeto instanciado a uma classe.
 #### Confira Exemplos em Construtor e Instanciação.
+
+### Palavra reservada instanciof
