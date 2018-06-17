@@ -143,6 +143,8 @@ public class TESTE {
 public class TESTE2 {
     public static void main(String[] args){
         TESTE eu = new TESTE();
+        //Neste caso é impresso "o mesmo objeto"
     }
     
 }
+```
