@@ -231,4 +231,22 @@ protected String nome;
 public double valor;
 private String senha;
 ```
+## Palavra reservada final
+- Quando usado na definição de uma variável, significa que ela não pode assumir outro valor, tornando-a uma constante. Quando usada na definição de um método, significa que o mesmo não poderá ser subescrito.
 
+```java
+public class POO{
+   public final void aula(){}
+}
+public class SOP extends POO {
+   public void aula(){} //Não é permitido sobrescrever o método
+}
+```
+## Relacionamento de dependência
+- É um relacionamento no qual um elemento, usa ou depende de outro elemento. Um relacionamento de dependência também pode ser utilizado para representar precedência, em que um elemento de modelo deve preceder outro. Ou seja ocorre quando usa os serviçoes de outra classe.
+
+## Relacinamento de Agregação
+- Ocorre quando há uma relação todo parte, onde a parte pode existir sem o todo. 
+
+## Relacinamento de Composição
+- Ocorre quando há uma relação todo parte, onde a parte não existe sem o todo.
