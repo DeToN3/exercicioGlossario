@@ -113,7 +113,7 @@ Jedi(String nome){
 }
 }
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 public class NewJedi {
 public static void main(String[] args) {
