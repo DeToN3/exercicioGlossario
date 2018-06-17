@@ -99,23 +99,26 @@ System.out.println("A força não está com você");
  
  Confira nos exemplos acima que os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
  
-Palavra Reservada This
+## Palavra Reservada This
+- 
 
 ``` java
 public class Jedi {
-public String nome;
-public String planeta;
-public Jedi(String nome,String planeta ){
-                //this.nome é o atributo da classe
-                //e "nome" é o valor que vem por parâmetro
-        this.nome = nome;
-        this.planeta = planeta;
+//public String nome;
+//public String planeta;
+String nome;
+
+Jedi(String nome){
+    this.nome = nome;
 }
- public String getnome(){
-        return this.nome;
-    }
-    public String getplaneta(){
-        return this.planeta;
+}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+public class NewJedi {
+public static void main(String[] args) {
+    Jedi Anakin = new Jedi("Anakin Skywalker");
+    System.out.println(Anakin.nome);
     }
 }
 ```
