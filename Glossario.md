@@ -69,7 +69,5 @@ System.out.println("A força está com você");
 }else{
 System.out.println("A força não está com você");
 }
-//Luke.nome= "Luke Skywalker";
-//Luke.planeta = "Tatooine";
 } 
 ```
