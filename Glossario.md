@@ -197,6 +197,7 @@ public static double metodo(int num1, double num2){
 
 ## Sobrecarga de método
 - consiste em criar o mesmo método com possibilidades de entradas diferentes. Essas entradas (parâmetros) devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
+Confira abaixo um exemplo com diferentes parâmetros e retornos.
 
 ``` java
 public class Calculadora{
