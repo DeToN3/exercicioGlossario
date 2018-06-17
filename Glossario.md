@@ -176,3 +176,20 @@ public class GetSetmain {
 }
 }
 ```
+## Palavra reservada public/private
+- Ambos são modificadores de acesso, suas diferenças implicam no grau de acesso. 
+- Public torna a classe, método ou variável acessável a partir de qualquer classe. 
+- Private segue a mesma idéia do Public, porém é acessável apenas dentro da própria classe.
+
+## Assinatura de método
+- Assinatura de método é a combinação do nome do método, tipo e a ordem dos parâmetros.
+
+``` java
+//                             Parâmetros   ←  
+                               ↑            ↑
+public static double metodo(int num1, double num2){
+//              ↓
+//         Nome do método
+   double resultado = num1+num2;
+   return resultado;
+}
