@@ -71,3 +71,5 @@ System.out.println("A força não está com você");
 }
 } 
 ```
+
+### Encapsulamento
