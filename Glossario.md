@@ -73,13 +73,18 @@ System.out.println("A força não está com você");
 ```
 
 ## Encapsulamento
- <p> +-----------------------+ </p>
- <p> |         Gato          | </p>
- <p> |-----------------------| </p>
- <p> |  Nome                 | </p>
- <p> |  Peso                 | </p>
- <p> |  Raça                 | </p>
- <p> |-----------------------| </p>
- <p> |  +Miar                | </p>
- <p> |  +Andar               | </p>
- <p> +-----------------------+ </p>
+- Trata de organizar os dados que sejam relacionados, agrupando-os em objetos, reduzindo as colisões de nomes de variáveis (dado que variáveis com o mesmo nome estarão em namespaces distintos) e, da mesma forma, reunindo métodos relacionados às suas propriedades.
+
+ <p> +-----------------------+ </p>                       <p> +-----------------------+ </p>               
+ <p> |         Gato          | </p>                       <p> |         Homem         | </p>
+ <p> |-----------------------| </p>                       <p> |-----------------------| </p>
+ <p> |  nome                 | </p>                       <p> |  nome                 | </p>
+ <p> |  peso                 | </p>                       <p> |  peso                 | </p> 
+ <p> |  raça                 | </p>                       <p> |  etnia                | </p>
+ <p> |-----------------------| </p>                       <p> |-----------------------| </p>
+ <p> |  +miar                | </p>                       <p> |  +falar               | </p>
+ <p> |  +andar               | </p>                       <p> |  +andar               | </p>
+ <p> +-----------------------+ </p>                       <p> +-----------------------+ </p>
+ 
+ Confira nos exemplos acima os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
+ 
