@@ -222,3 +222,13 @@ public void teste(){//Começo do escopo
    System.out.println("O valor é: ",valor);
 }//Fim do escopo
 ```
+
+## Escopo de objeto
+- É o limite que um objeto pode manipular, visualizar ou acessar os atributos ou métodos dando ou não permissão (private, protected, public) para si p´roprio ou a bibliotecas externas para acessa-la.
+
+```java
+protected String nome;
+public double valor;
+private String senha;
+```
+
