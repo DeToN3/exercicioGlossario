@@ -103,7 +103,7 @@ System.out.println("A força não está com você");
  Confira nos exemplos acima que os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
  
 ## Palavra Reservada This
-- 
+- This é usado para referenciar uma variável a instancia atual de um objeto, ou seja, usado para fazer utilizar uma variável da classe na qual se está trabalhando.
 
 ``` java
 public class Jedi {
@@ -120,6 +120,7 @@ public class NewJedi {
 public static void main(String[] args) {
     Jedi Anakin = new Jedi("Anakin Skywalker");
     System.out.println(Anakin.nome);
+    //Então imprimi-se "Anakin Skywalker"
     }
 }
 ```
