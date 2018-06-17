@@ -40,18 +40,18 @@ Jedi Yoda = new Jedi();
 
 ``` java
 
-public class Jedi{
-public string nome;
-public string planeta;
+public class Jedi {
+public String nome;
+public String planeta;
 }
 
-public class StarWars{
-static void Main(){
+
+public class Luke {
+public static void Main(){
 Jedi Luke = new Jedi();
-Luke.nome = "Luke Skywalker";
+Luke.nome= "Luke Skywalker";
 Luke.planeta = "Tatooine";
-Console.WriteLine(objPessoa.nome);
-}          
+}     
 }
 ```
 
