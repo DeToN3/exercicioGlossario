@@ -48,6 +48,7 @@ public String planeta;
 
 public class Luke {
 public static void Main(){
+/* Aqui acontece a instanciação */
 Jedi Luke = new Jedi();
 Luke.nome = "Luke Skywalker";
 Luke.planeta = "Tatooine";
