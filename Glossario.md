@@ -251,4 +251,4 @@ public class SOP extends POO {
 ## Relacinamento de Composição
 - Ocorre quando há uma relação todo parte, onde a parte não existe sem o todo.
 
-<img src=“exemplo.png” alt=“exemplo”>
+<https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjbjofl89vbAhUBnZAKHedBC84QjRx6BAgBEAU&url=http%3A%2F%2Fwww.cleibsonalmeida.blog.br%2Fsite%2Fuml-composicao-vs-agregacao%2F&psig=AOvVaw0sPoW1rwb5ddWe-v3nqQd_&ust=1529366355352290>
