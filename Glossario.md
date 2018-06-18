@@ -1,5 +1,5 @@
 # Glossário
-- ##### Construtor
+- ##### [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1)
 - ##### Instanciação
 - ##### Palavra reservada new
 - ##### Palavra reservada instanciof
