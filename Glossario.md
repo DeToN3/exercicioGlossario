@@ -244,15 +244,19 @@ public class SOP extends POO {
 }
 ```
 ## Relacionamento de dependência
-- É um relacionamento no qual um elemento, usa ou depende de outro elemento. Um relacionamento de dependência também pode ser utilizado para representar precedência, em que um elemento de modelo deve preceder outro. Ou seja ocorre quando usa os serviçoes de outra classe.
+- É um relacionamento no qual um elemento, usa ou depende de outro elemento. Um relacionamento de dependência também pode ser utilizado para representar precedência, em que um elemento de modelo deve preceder outro. Ou seja ocorre quando usa os serviços de outra classe.
+
+
 
 ## Relacinamento de Agregação
 - Ocorre quando há uma relação todo parte, onde a parte pode existir sem o todo. 
 
+
+
 ## Relacinamento de Composição
 - Ocorre quando há uma relação todo parte, onde a parte não existe sem o todo.
 
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjbjofl89vbAhUBnZAKHedBC84QjRx6BAgBEAU&url=http%3A%2F%2Fwww.cleibsonalmeida.blog.br%2Fsite%2Fuml-composicao-vs-agregacao%2F&psig=AOvVaw0sPoW1rwb5ddWe-v3nqQd_&ust=1529366355352290
+
 
 ## Referências
 <p> https://www.devmedia.com.br </p>
