@@ -80,7 +80,7 @@ System.out.println("A força não está com você");
 - Trata de organizar os dados que sejam relacionados, agrupando-os em objetos, reduzindo as colisões de nomes de variáveis (dado que variáveis com o mesmo nome estarão em namespaces distintos) e, da mesma forma, reunindo métodos relacionados às suas propriedades.
 
             
- 
+ ![capturar](https://user-images.githubusercontent.com/27862173/41562663-b0846d3c-7323-11e8-9e7d-9d23c706bae5.PNG)
 
  
  Confira nos exemplos acima que os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
