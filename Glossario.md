@@ -251,7 +251,6 @@ public class SOP extends POO {
 ## Relacinamento de Agregação
 - Ocorre quando há uma relação todo parte, onde a parte pode existir sem o todo. 
 
-
 ![uml_composicao](https://user-images.githubusercontent.com/27862173/41513480-8c15d892-7273-11e8-86bc-c07b86382b19.gif)
 
 ## Relacinamento de Composição
