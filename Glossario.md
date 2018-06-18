@@ -79,29 +79,9 @@ System.out.println("A força não está com você");
 ## Encapsulamento
 - Trata de organizar os dados que sejam relacionados, agrupando-os em objetos, reduzindo as colisões de nomes de variáveis (dado que variáveis com o mesmo nome estarão em namespaces distintos) e, da mesma forma, reunindo métodos relacionados às suas propriedades.
 
- <p> +-----------------------+ </p>                      
- <p> |         Gato          | </p>                   
- <p> |-----------------------| </p>              
- <p> |  nome                 | </p>                     
- <p> |  peso                 | </p>                      
- <p> |  raça                 | </p>                    
- <p> |-----------------------| </p>                       
- <p> |  +miar                | </p>                       
- <p> |  +andar               | </p>                       
- <p> +-----------------------+ </p>                       
+            
  
- \~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
- <p> +-----------------------+ </p>                       
- <p> |         Homem         | </p>
- <p> |-----------------------| </p>
- <p> |  nome                 | </p>
- <p> |  peso                 | </p> 
- <p> |  etnia                | </p>
- <p> |-----------------------| </p>
- <p> |  +falar               | </p>
- <p> |  +andar               | </p>
- <p> +-----------------------+ </p>
+
  
  Confira nos exemplos acima que os dois atributos possuem nomes iguais, porem o seu domínios se difere. Assim podemos acessar Gato.nome ou Homem.nome sem conflito. 
  
