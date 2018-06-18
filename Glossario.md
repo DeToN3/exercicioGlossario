@@ -254,8 +254,8 @@ public class SOP extends POO {
 
 
 ## Referências
-<p> <https://www.devmedia.com.br> </p>
-<p> <http://www.dca.fee.unicamp.br/cursos/PooJava/desenvolvimento/umlclass.html> </p>
-<p> <https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/> </p>
-<p> <http://www.nacaolivre.com.br/javascript/escopo-de-objeto-em-javascript/> </p>
-<p> <https://www.ibm.com/support/knowledgecenter/pt-br/SS8PJ7_8.5.1/com.ibm.xtools.modeler.doc/topics/cdepend.html> </p>
+<p> https://www.devmedia.com.br </p>
+<p> http://www.dca.fee.unicamp.br/cursos/PooJava/desenvolvimento/umlclass.html </p>
+<p> https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/ </p>
+<p> http://www.nacaolivre.com.br/javascript/escopo-de-objeto-em-javascript/ </p>
+<p> https://www.ibm.com/support/knowledgecenter/pt-br/SS8PJ7_8.5.1/com.ibm.xtools.modeler.doc/topics/cdepend.html </p>
