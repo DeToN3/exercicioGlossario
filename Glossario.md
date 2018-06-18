@@ -15,6 +15,7 @@
 - ##### Relacionamento de dependência
 - ##### Relacinamento de Agregação
 - ##### Relacionamento de Composição
+- ##### Referências
 
 ## Construtor
 - É uma operação em uma classe responsável por criar um objeto.
@@ -251,4 +252,10 @@ public class SOP extends POO {
 ## Relacinamento de Composição
 - Ocorre quando há uma relação todo parte, onde a parte não existe sem o todo.
 
-<https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjbjofl89vbAhUBnZAKHedBC84QjRx6BAgBEAU&url=http%3A%2F%2Fwww.cleibsonalmeida.blog.br%2Fsite%2Fuml-composicao-vs-agregacao%2F&psig=AOvVaw0sPoW1rwb5ddWe-v3nqQd_&ust=1529366355352290>
+
+## Referências
+<https://www.devmedia.com.br>
+<http://www.dca.fee.unicamp.br/cursos/PooJava/desenvolvimento/umlclass.html>
+<https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/>
+<http://www.nacaolivre.com.br/javascript/escopo-de-objeto-em-javascript/>
+<https://www.ibm.com/support/knowledgecenter/pt-br/SS8PJ7_8.5.1/com.ibm.xtools.modeler.doc/topics/cdepend.html>
