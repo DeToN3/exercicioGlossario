@@ -1,18 +1,18 @@
 # Glossário
 - ##### [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1)
 - ##### [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1)
-- ##### [Palavra reservada new](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-new-1)
-- ##### [Palavra reservada instanciof](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-instanciof-1)
+- ##### [Palavra Reservada new](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-new-1)
+- ##### [Palavra Reservada instanciof](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-instanciof-1)
 - ##### [Encapsulamento](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#encapsulamento-1)
-- ##### [Palavra reservada this](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-this-1)
+- ##### [Palavra Reservada this](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-this-1)
 - ##### [Getters/Setters](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#getterssetters-1)
-- ##### [Palavra reservada public/private](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-publicprivate-1)
-- ##### [Assinatura de método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#assinatura-de-m%C3%A9todo-1)
-- ##### [Sobrecarga de método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#sobrecarga-de-m%C3%A9todo-1)
-- ##### [Escopo de classe](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-classe-1)
-- ##### [Escopo de objeto](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-objeto-1)
-- ##### [Palavra reservada final](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-final-1)
-- ##### [Relacionamento de dependência](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacionamento-de-depend%C3%AAncia-1)
+- ##### [Palavra Reservada public/private](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-publicprivate-1)
+- ##### [Assinatura de Método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#assinatura-de-m%C3%A9todo-1)
+- ##### [Sobrecarga de Método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#sobrecarga-de-m%C3%A9todo-1)
+- ##### [Escopo de Classe](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-classe-1)
+- ##### [Escopo de Objeto](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-objeto-1)
+- ##### [Palavra Reservada final](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-final-1)
+- ##### [Relacionamento de Dependência](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacionamento-de-depend%C3%AAncia-1)
 - ##### [Relacinamento de Agregação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacinamento-de-agrega%C3%A7%C3%A3o-1)
 - ##### [Relacionamento de Composição](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacinamento-de-composi%C3%A7%C3%A3o)
 - ##### [Referências](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#refer%C3%AAncias-1)
@@ -61,7 +61,7 @@ Luke.planeta = "Tatooine";
 ```
 ## Palavra reservada new
 - Usada para chama o construtor do objeto e criar um objeto instanciado a uma classe.
-#### Confira Exemplos [em Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1) e [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1).
+#### Confira Exemplos em [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1) e [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1).
 
 ## Palavra reservada instanciof
 - Determina se um objeto é a instancia de uma classe, superclasse ou interface.
