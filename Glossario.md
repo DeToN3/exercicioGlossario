@@ -26,8 +26,8 @@ public class Jedi{
 public Jedi(){
 } 
 }
-
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+```
+``` java
 
 public class ChamarJedi {
  
@@ -47,8 +47,8 @@ public class Jedi {
 public String nome;
 public String planeta;
 }
- 
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+```
+``` java
 
 public class Luke {
 public static void Main(){
@@ -59,11 +59,11 @@ Luke.planeta = "Tatooine";
 }     
 }
 ```
-## Palavra reservada new
+## Palavra Reservada new
 - Usada para chama o construtor do objeto e criar um objeto instanciado a uma classe.
 #### Confira Exemplos em [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1) e [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1).
 
-## Palavra reservada instanciof
+## Palavra Reservada instanciof
 - Determina se um objeto é a instancia de uma classe, superclasse ou interface.
 
 ``` java
@@ -95,8 +95,8 @@ Jedi(String nome){
     this.nome = nome;
 }
 }
-
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+``` 
+``` java
 
 public class NewJedi {
 public static void main(String[] args) {
@@ -120,8 +120,8 @@ public class TESTE {
     }
     }
 }
-
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+```
+``` java
 
 public class TESTE2 {
     public static void main(String[] args){
@@ -145,8 +145,8 @@ public class GetSet {
   this.nome = nome;
   }
 }
-
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+```
+``` java
 
 public class GetSetmain {
     public static void main(String[] args){
@@ -158,12 +158,12 @@ public class GetSetmain {
 }
 }
 ```
-## Palavra reservada public/private
+## Palavra Reservada public/private
 - Ambos são modificadores de acesso, suas diferenças implicam no grau de acesso. 
 - Public torna a classe, método ou variável acessável a partir de qualquer classe. 
 - Private segue a mesma idéia do Public, porém é acessável apenas dentro da própria classe.
 
-## Assinatura de método
+## Assinatura de Método
 - Assinatura de método é a combinação do nome do método, tipo e a ordem dos parâmetros.
 
 ``` java
@@ -177,7 +177,7 @@ public static double metodo(int num1, double num2){
 }
 ```
 
-## Sobrecarga de método
+## Sobrecarga de Método
 - consiste em criar o mesmo método com possibilidades de entradas diferentes. Essas entradas (parâmetros) devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
 Confira abaixo um exemplo com diferentes parâmetros e retornos.
 
@@ -205,7 +205,7 @@ public void teste(){//Começo do escopo
 }//Fim do escopo
 ```
 
-## Escopo de objeto
+## Escopo de Objeto
 - É o limite que um objeto pode manipular, visualizar ou acessar os atributos ou métodos dando ou não permissão (private, protected, public) para si p´roprio ou a bibliotecas externas para acessa-la.
 
 ```java
@@ -213,7 +213,7 @@ protected String nome;
 public double valor;
 private String senha;
 ```
-## Palavra reservada final
+## Palavra Reservada final
 - Quando usado na definição de uma variável, significa que ela não pode assumir outro valor, tornando-a uma constante. Quando usada na definição de um método, significa que o mesmo não poderá ser subescrito.
 
 ```java
@@ -224,7 +224,7 @@ public class SOP extends POO {
    public void aula(){} //Não é permitido sobrescrever o método
 }
 ```
-## Relacionamento de dependência
+## Relacionamento de Dependência
 - É um relacionamento no qual um elemento, usa ou depende de outro elemento. Um relacionamento de dependência também pode ser utilizado para representar precedência, em que um elemento de modelo deve preceder outro. Ou seja ocorre quando usa os serviços de outra classe.
 
 ![depe dencia](https://user-images.githubusercontent.com/27862173/41513477-7ae27c42-7273-11e8-994a-bfd4bb5efd1e.jpg)
