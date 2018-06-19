@@ -241,8 +241,13 @@ public class SOP extends POO {
 
 
 ## Referências
+### DevMedia
 <p> https://www.devmedia.com.br </p>
+### DCA UNICAMP
 <p> http://www.dca.fee.unicamp.br/cursos/PooJava/desenvolvimento/umlclass.html </p>
+### Desenvolvimento Aberto
 <p> https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/ </p>
+### Nação Livre
 <p> http://www.nacaolivre.com.br/javascript/escopo-de-objeto-em-javascript/ </p>
+### IBM
 <p> https://www.ibm.com/support/knowledgecenter/pt-br/SS8PJ7_8.5.1/com.ibm.xtools.modeler.doc/topics/cdepend.html </p>
