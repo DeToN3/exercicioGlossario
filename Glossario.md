@@ -1,13 +1,13 @@
 # Glossário
 - ##### [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1)
 - ##### [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1)
-- ##### [Palavra reservada new]
-- ##### [Palavra reservada instanciof]
-- ##### [Encapsulamento]
-- ##### [Palavra reservada this]
-- ##### [Getters/Setters]
-- ##### [Palavra reservada public/private]
-- ##### [Assinatura de método]
+- ##### [Palavra reservada new](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-new-1)
+- ##### [Palavra reservada instanciof](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-instanciof-1)
+- ##### [Encapsulamento](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#encapsulamento-1)
+- ##### [Palavra reservada this](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-this-1)
+- ##### [Getters/Setters](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#getterssetters-1)
+- ##### [Palavra reservada public/private](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-publicprivate-1)
+- ##### [Assinatura de método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#assinatura-de-m%C3%A9todo-1)
 - ##### [Sobrecarga de método]
 - ##### [Escopo de classe]
 - ##### [Escopo de objeto]
