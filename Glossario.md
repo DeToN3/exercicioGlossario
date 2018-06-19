@@ -1,6 +1,6 @@
 # Glossário
 - ##### [Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1)
-- ##### [Instanciação]
+- ##### [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1)
 - ##### [Palavra reservada new]
 - ##### [Palavra reservada instanciof]
 - ##### [Encapsulamento]
