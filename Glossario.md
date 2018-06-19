@@ -61,7 +61,7 @@ Luke.planeta = "Tatooine";
 ```
 ## Palavra reservada new
 - Usada para chama o construtor do objeto e criar um objeto instanciado a uma classe.
-#### Confira Exemplos em Construtor e Instanciação.
+#### Confira Exemplos [em Construtor](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#construtor-1) e [Instanciação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#instancia%C3%A7%C3%A3o-1).
 
 ## Palavra reservada instanciof
 - Determina se um objeto é a instancia de uma classe, superclasse ou interface.
