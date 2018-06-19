@@ -195,7 +195,7 @@ public class Calculadora{
 }
 ```
 
-##Escopo de Classe 
+## Escopo de Classe 
 -Referente a vida e acessibilidade de uma variável. Seu tamanho e alcance depende de onde uma variável é declarada. Por exemplo, se uma variável é declarada na parte superior de uma classe, ela será acessível a todos os métodos de classe. Se for declarada num método, em seguida, só pode ser utilizada em tal método.
 
 ``` java
