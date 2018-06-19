@@ -9,13 +9,13 @@
 - ##### [Palavra reservada public/private](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-publicprivate-1)
 - ##### [Assinatura de método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#assinatura-de-m%C3%A9todo-1)
 - ##### [Sobrecarga de método](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#sobrecarga-de-m%C3%A9todo-1)
-- ##### [Escopo de classe]
+- ##### [Escopo de classe](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-classe-1)
 - ##### [Escopo de objeto](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#escopo-de-objeto-1)
 - ##### [Palavra reservada final](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#palavra-reservada-final-1)
 - ##### [Relacionamento de dependência](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacionamento-de-depend%C3%AAncia-1)
 - ##### [Relacinamento de Agregação](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacinamento-de-agrega%C3%A7%C3%A3o-1)
 - ##### [Relacionamento de Composição](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#relacinamento-de-composi%C3%A7%C3%A3o)
-- ##### [Referências]
+- ##### [Referências](https://github.com/DeToN3/exercicioGlossario/blob/master/Glossario.md#refer%C3%AAncias-1)
 
 ## Construtor
 - É uma operação em uma classe responsável por criar um objeto.
